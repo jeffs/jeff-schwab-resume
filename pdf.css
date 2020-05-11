@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-: center;
+  max-width: 30rem;
+}
+
+.header * {
+  padding: 0;
+  margin: 0;
+}
+
+h1 { font-size: large }
+h2 { font-size: large; }
+h3 { font-size: medium; }
+
+a { text-decoration: none; }
+
+.page2 { break-before: page; }
