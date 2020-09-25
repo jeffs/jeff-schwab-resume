@@ -2,14 +2,15 @@
 <jeff@unbuggy.com>
 [+1 (617) 407-2542]( tel:+16174072542 )
 
-Engineering manager seeks big opportunities in fast-paced environment.
+Make it right.  Make it fast.  Make it beautiful.
 
 ## Experience
 
-### Senior Software Engineer (SWE) at Google, January 2019 - present
+### Senior Software Engineer (SWE) at Google, January 2019 - August 2020
 * Worked on a dedicated Engineering Productivity team within Core Systems
 * Led development of automatic unit test generator for Angular/Dart components
 * Collaborated regularly with engineers on three coasts
+* Left to pursue personal projects
 
 ### Engineering Manager at Zipdrug, July 2018 - January 2019
 * Began as contractor, and served briefly as Head of Engineering
