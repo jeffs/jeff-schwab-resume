@@ -30,7 +30,7 @@ Make it right.  Make it fast.  Make it beautiful.
 * Left upon acquisition by Snap, makers of Snapchat
 
 ### Engineering Manager at Orchard Platform, December 2013 - August 2016
-* Employee #1 at successful FinTech startup (later acquired by Kabbage)
+* Employee #1 at successful FinTech startup (acquired, now American Express)
 * Hired as Senior Engineer, then managed Infrastructure team
 * Designed and implemented cloud-based microservice architecture
 * Worked on real-time bidding, API integrations, and custom tooling
