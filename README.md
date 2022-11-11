@@ -6,6 +6,16 @@ Make it right.  Make it fast.  Make it beautiful.
 
 ## Experience
 
+### Deeply Nested, July 2022 - Present
+* Authoring weekly articles at https://nested.substack.com
+* Focusing on passion projects related to DevOps and DevX
+* Gaining a deeper understanding of Rust and WebAssembly
+
+### Acting CTO at Epistemic AI, April 2021 - June 2022
+* Helped a team of experts revolutionize the world of life science research
+* Supervised a team of ten engineers
+* Coordinated initiatives with amount product, science, and leadership teams
+
 ### Senior Software Engineer (SWE) at Google, January 2019 - August 2020
 * Worked on a dedicated Engineering Productivity team within Core Systems
 * Led development of automatic unit test generator for Angular/Dart components

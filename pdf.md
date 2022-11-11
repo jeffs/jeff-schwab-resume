@@ -10,6 +10,16 @@ Make it right.  Make it fast.  Make it beautiful.
 
 ## Experience
 
+### Deeply Nested, July 2022 - Present
+* Authoring weekly articles at https://nested.substack.com
+* Focusing on passion projects related to DevOps and DevX
+* Gaining a deeper understanding of Rust and WebAssembly
+
+### Acting CTO at Epistemic AI, April 2021 - June 2022
+* Helped a team of experts revolutionize the world of life science research
+* Supervised a team of ten engineers
+* Coordinated initiatives with amount product, science, and leadership teams
+
 ### Senior Software Engineer (SWE) at Google, January 2019 - August 2020
 * Worked on a dedicated Engineering Productivity team within Core Systems
 * Led development of automatic unit test generator for Angular/Dart components
@@ -40,13 +50,13 @@ Make it right.  Make it fast.  Make it beautiful.
 * Developed C++ and Scala code including memory allocators and build tools
 * Completed projects at Twitter and Walmart
 
-### Tech Lead at Bloomberg, November 2010 - March 2013
+<h3 class="page2">Tech Lead at Bloomberg, November 2010 - March 2013</h3>
 * Hired as a C++ developer after two-month contract; later managed a small team
 * Trained other engineers on scalable C++ development
 * Helped create binding layer to expose native code to dynamic languages
 * Guided development of Launchpad, a special-purpose window manager
 
-<h3 class="page2">Engineering Consultant at GE, July 2009 - October 2010</h3>
+### Engineering Consultant at GE, July 2009 - October 2010
 * Helped debug novel hardware and real-time ARM/Linux application
 * Development device drivers, UI, and low-bandwidth wireless protocol
 * Contracted through Adecco
