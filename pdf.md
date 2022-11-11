@@ -18,7 +18,7 @@ Make it right.  Make it fast.  Make it beautiful.
 ### Acting CTO at Epistemic AI, April 2021 - June 2022
 * Helped a team of experts revolutionize the world of life science research
 * Supervised a team of ten engineers
-* Coordinated initiatives with amount product, science, and leadership teams
+* Coordinated initiatives with product, science, and leadership teams
 
 ### Senior Software Engineer (SWE) at Google, January 2019 - August 2020
 * Worked on a dedicated Engineering Productivity team within Core Systems
