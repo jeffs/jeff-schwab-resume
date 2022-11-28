@@ -25,7 +25,6 @@ Make it right.  Make it fast.  Make it beautiful.
 * Worked on a dedicated Engineering Productivity team within Core Systems
 * Led development of automatic unit test generator for Angular components
 * Collaborated regularly with engineers on three coasts
-* Left to pursue personal projects
 
 ### Engineering Manager at Zipdrug, July 2018 - January 2019
 * Began as contractor, and served briefly as Head of Engineering
@@ -57,7 +56,7 @@ Make it right.  Make it fast.  Make it beautiful.
 * Helped create binding layer to expose native code to dynamic languages
 * Guided development of Launchpad, a special-purpose window manager
 
-### Engineering Consultant at GE, July 2009 - October 2010
+### Engineering Consultant at GE / Morpho Detection, July 2009 - October 2010
 * Helped debug novel hardware and real-time ARM/Linux application
 * Development device drivers, UI, and low-bandwidth wireless protocol
 * Contracted through Adecco
