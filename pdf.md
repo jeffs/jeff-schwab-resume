@@ -10,10 +10,10 @@ Make it right.  Make it fast.  Make it beautiful.
 
 ## Experience
 
-### Deeply Nested, July 2022 - Present
-* Focusing on projects related to DevOps and DevX
-* Authoring weekly articles at https://nested.substack.com
-* Gaining a deeper understanding of Rust and WebAssembly
+### Founder of Deeply Nested, July 2022 - Present
+* Publishing at <https://nested.substack.com>
+* Developing passion projects related to DevOps and DevX
+* Focusing on Rust and WebAssembly
 
 ### Acting CTO at Epistemic AI, April 2021 - June 2022
 * Helped a team of experts revolutionize the world of life science research
