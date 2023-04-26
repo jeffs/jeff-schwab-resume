@@ -1,6 +1,5 @@
 # Jeffrey Schwab
-<jeff@unbuggy.com>
-[+1 (617) 407-2542]( tel:+16174072542 )
+<jeff@unbuggy.com> • [+1 (617) 407-2542]( tel:+16174072542 )
 
 Make it right.  Make it fast.  Make it beautiful.
 
