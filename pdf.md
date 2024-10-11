@@ -10,6 +10,12 @@ Make it right.  Make it fast.  Make it beautiful.
 
 ## Experience
 
+### Software Architect at Wieldy AI, May 2023 - Present
+* Founding engineer at a seed stage startup
+* Helped dental practices work effectively with big insurance companies
+* Designed a platform for real time data aggregation and analysis
+* Helped ensure success of first product, first customers, and early 
+
 ### Founder of Deeply Nested, July 2022 - Present
 * Publishing at <https://nested.substack.com>
 * Developing passion projects related to DevOps and DevX
@@ -28,9 +34,7 @@ Make it right.  Make it fast.  Make it beautiful.
 
 ### Engineering Manager at Zipdrug, July 2018 - January 2019
 * Began as contractor, and served briefly as Head of Engineering
-* Introduced code quality measures (e.g., code reviews and test suites)
-* Formalized processes around interviews and project management
-* Automated and expanded existing ETL pipelines
+* Formalized development processes and automated data integrations
 * Zipdrug was acquired by Anthem's new PBM, IngenioRx
 
 ### Principal Engineer at Metamarkets, December 2016 - November 2017
@@ -45,12 +49,12 @@ Make it right.  Make it fast.  Make it beautiful.
 * Designed and implemented cloud-based microservice architecture
 * Worked on real-time bidding, API integrations, and custom tooling
 
-### Contracting and private projects, 2013 - 2018
+<h3 class="page2">Contracting and private projects, 2013 - 2018</h3>
 * Tutored adults pursuing programming as a second career, mostly in Python
 * Developed C++ and Scala code including memory allocators and build tools
-* Completed projects at Twitter and Walmart
+* Completed projects for Twitter, Walmart, and various small companies
 
-<h3 class="page2">Tech Lead at Bloomberg, November 2010 - March 2013</h3>
+### Tech Lead at Bloomberg, November 2010 - March 2013
 * Hired as a C++ developer after two-month contract; later managed a small team
 * Trained other engineers on scalable C++ development
 * Helped create binding layer to expose native code to dynamic languages
@@ -72,29 +76,24 @@ Make it right.  Make it fast.  Make it beautiful.
 * Laid off when company shut down
 
 ### Software Engineer at IBM, June 2004 - September 2007
-* First member of new microprocessor design team near Boston
-* Helped on-board 25 other engineers (mostly past coworkers)
+* First member of new microprocessor design team
 * Developed and supported in-house Electronic Design Automation tools
 * Projects included game console development and ITAR defense work
 
 ### EDA Engineer at Sun Microsystems, May 2000 - June 2004
-* Developed and supported large-scale semiconductor design tools
+* Developed and supported semiconductor design tools, improving performance 10-100x
 * Created executive dashboard to track bicoastal project's release readiness
-* Maintained and enhanced existing code, improving performance 10-100x
-* Focused on power analysis and functional verification
 * Laid off during massive reduction in force
 
 ## Education
 
-* B.S. in Computer Systems Engineering from Boston University, May 2000
-  - Graduated on Dean's List
+* B.S. in Computer Systems Engineering,  Boston University; Dean's List
 * National Merit Scholar
 * Perfect score (1600) on GRE
 
 ## Technology
 
-* Cloud computing, microservices, and horizontally scalable architecture
-* C++, Rust, Golang, JavaScript, Python, Scala, and other programming languages
-* Functional Programming and Object-Oriented Programming
-* Embedded software development
-* Unix/Linux and relevant tooling: Bash, Vim, Git, etc.
+* Rust, C++, Go, JavaScript, Python, Scala, and other programming languages
+* Cloud computing, microservices, and system architecture
+* Functional and Object-Oriented Programming
+* Unix/Linux and relevant tooling

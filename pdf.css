@@ -12,7 +12,8 @@
 
 h1 { font-size: large }
 h2 { font-size: large; }
-h3 { font-size: medium; }
+h3 { font-size: medium; margin-bottom: 0; }
+ul { margin-top: 0; }
 
 a { text-decoration: none; }
 

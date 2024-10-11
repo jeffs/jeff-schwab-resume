@@ -17,7 +17,7 @@ Updates to the resume are performed thus:
 2. Copy updated content from README.md to pdf.md
 3. Convert pdf.md to HTML
     ```sh
-    markdown pdf.md > pdf.md.html
+    
     ```
 4. Serve the HTML version locally, and tweak the styles as needed
     ```sh
